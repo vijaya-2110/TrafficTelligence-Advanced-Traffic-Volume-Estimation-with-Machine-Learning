@@ -19,5 +19,12 @@ it can estimate how many vehicles are likely to pass through, helping in plannin
 $The best model predicted traffic volume with low error.
 $Found that time of day and weather are important factors.
 
+
+OUTPUT:
+
+
 ![image](https://github.com/user-attachments/assets/8fa2e108-48a9-44c4-ba7a-f45928c63c7b)
+
+
+![image](https://github.com/user-attachments/assets/014ae521-763e-4207-9e70-e5be139f0d31)
 
