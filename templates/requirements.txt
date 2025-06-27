@@ -1,0 +1,10 @@
+
+🔧 Software Requirements
+-Python 3.7 or above
+-Jupyter Notebook 
+
+📦 Python Libraries
+*pandas
+*numpy
+*scikit-learn
+*matplotlib
