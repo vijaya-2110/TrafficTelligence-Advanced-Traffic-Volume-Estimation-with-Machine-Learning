@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Traffic Volume Estimation Result</title>
+  <style>
+    body, html {
+      height: 100%;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: url('https://stat.overdrive.in/wp-content/uploads/2021/10/2021-jaguar-xf-facelift-india-01.jpg') no-repeat center center fixed;
+      background-size: cover;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      text-align: center;
+    }
+    .result-container {
+      background-color: rgba(0,0,0,0.6);
+      padding: 40px;
+      border-radius: 15px;
+    }
+    h1 {
+      font-size: 40px;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 24px;
+    }
+  </style>
+</head>
+<body>
+  <div class="result-container">
+    <h1>Traffic Volume Estimation Result</h1>
+    <p>Estimated Traffic Volume: <strong>{{ prediction }}</strong> vehicles</p>
+  </div>
+</body>
+</html>
